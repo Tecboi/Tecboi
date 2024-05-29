@@ -30,7 +30,7 @@
 
  <hr>
 
-## 𝗧𝗔𝗣 𝗢𝗡 𝗧𝗛𝗘 𝗔𝗣𝗣 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬 𝗠𝗔𝗖 𝗕𝗢𝗧
+## 𝗧𝗔𝗣 𝗢𝗡 𝗧𝗛𝗘 𝗔𝗣𝗣 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬 NEPH BOT
   
 [NEPH 𝗔𝗣𝗣](https://mac-scanner-d82e01b36359.herokuapp.com/)
 
@@ -38,7 +38,7 @@
  <hr>
  
 ## DEVELOPE𝙍S
-[`NEPH 𝙏𝙀𝘾𝙃`](https://wa.me/263715078074)
+[`NEPH TECH`](https://wa.me/263715078074)
 
 
 
