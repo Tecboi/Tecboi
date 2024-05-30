@@ -1,3 +1,4 @@
+![image](https://github.com/Tecboi/Tecboi/assets/170419553/5c04c3b8-73c8-4571-88ef-86b80012f4e4)
 
 
 > **Warning**: Do not sell this script.
