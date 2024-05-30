@@ -18,7 +18,7 @@
 </p> 
 
 ## DEPLOYMENT STEPS
-1,TAP ON NEPH APP
+1,TAP ON </b>NEPH APP</b>
 
 
 
@@ -33,13 +33,13 @@
 
 ## 𝗧𝗔𝗣 𝗢𝗡 𝗧𝗛𝗘 𝗔𝗣𝗣 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬 NEPH BOT
   
-[NEPH 𝗔𝗣𝗣](https://mac-scanner-d82e01b36359.herokuapp.com/)
+</b>[NEPH APP]</b>(https://mac-scanner-d82e01b36359.herokuapp.com/)
 
 
  <hr>
  
-## DEVELOPE𝙍S
-[`NEPH TECH`](https://wa.me/263715078074)
+## DEVELOPERS
+</b>[`NEPH TECH`](https://wa.me/263715078074)</b>
 
 
 
