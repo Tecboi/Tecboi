@@ -1,11 +1,11 @@
-![image](https://github.com/Tecboi/Tecboi/assets/170419553/5c04c3b8-73c8-4571-88ef-86b80012f4e4)
+
 
 
 > **Warning**: Do not sell this script.
 
 <center>
 
-<img alt=🪄🍪 height="300" src="https://www.bing.com/images/create/create-a-3d-stylish-text-22powered-by-nephtech222c-a/1-6654872cd3e3476fbbbb8ccf0e02ee91?id=gw%2bSOGuKzl0XKYAj2uyGYw%3d%3d&view=detailv2&idpp=genimg&thId=OIG2.P_b9M6qrcMtf6KsbmXQj&FORM=GCRIDP&mode=overlay.jpg">
+<img alt=🪄🍪 height="300" src="https://github.com/Tecboi/Tecboi/assets/170419553/5c04c3b8-73c8-4571-88ef-86b80012f4e4.jpg">
 
 </center>
 
