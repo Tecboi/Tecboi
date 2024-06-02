@@ -1,4 +1,4 @@
 
-Developer one = Mas tech https://wa.me/256705036288
+Developer one = Neph Tech https://wa.me/263715078074
 
-Developer two = IBRAHIM TECH: https://wa.me/254710772666
+Developer two = Neph TECH: https://wa.me/263715078074
