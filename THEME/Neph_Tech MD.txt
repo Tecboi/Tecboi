@@ -1,2 +1,2 @@
-var = "/mas tech js";
+var = "/neph tech js";
 ready = folder;4.1
