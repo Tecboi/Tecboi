@@ -4,11 +4,11 @@
 
 <center>
 
-<img alt=🪄🍪 height="300" src="https://telegra.ph/file/eecd5673d4d80563d645b.jpg">
+<img alt=🪄🍪 height="300" src="https://github.com/Tecboi/Tecboi/assets/170419553/3b4745df-9465-44b5-92ac-6bd17f7fb497">
 
 </center>
 
-<h1 align="center">MAC MD</h1>
+<h1 align="center">Neph MD</h1>
  
 ## Join my channel for updates and get free cc
 <a href="https://whatsapp.com/channel/0029VaWGyGVJZg48vgpHBa31" target="_blank">
@@ -17,7 +17,7 @@
 </p> 
 
 ## DEPLOYMENT STEPS
-1,TAP ON MAC APP
+1,TAP ON _NEPH APP_
 
 
 
@@ -32,15 +32,14 @@
 
 ## 𝗧𝗔𝗣 𝗢𝗡 𝗧𝗛𝗘 𝗔𝗣𝗣 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬 𝗠𝗔𝗖 𝗕𝗢𝗧
   
-[𝗠𝗔𝗖 𝗔𝗣𝗣](https://mac-scanner-d82e01b36359.herokuapp.com/)
+## [_NEPH APP_](https://mac-scanner-d82e01b36359.herokuapp.com/)
 
 
  <hr>
  
 ## DEVELOPE𝙍S
-[`𝙈𝘼𝘾 𝙏𝙀𝘾𝙃`](https://wa.me/256705036288)
+[`NEPH_TECH`](https://wa.me/263715078074)
 
-[`𝙄𝘽𝙍𝘼𝙃𝙄𝙈 𝙏𝙀𝘾𝙃`](https://www.youtube.com/@ibrahimmdgpt)
 
 
 
