@@ -1,8 +1,9 @@
 > **Warning**: Do not sell this script. Unless contact +263715078074
 
+
 <center>
 
-<img alt=🪄🍪 height="300" src="https://github.com/Tecboi/Tecboi/assets/170419553/3b4745df-9465-44b5-92ac-6bd17f7fb497">
+<img alt=🪄🍪 height="300" src="https://github.com/Tecboi/Tecboi/assets/170419553/1811f434-a584-43e1-b3e9-4e715413e846">
 
 </center>
 
