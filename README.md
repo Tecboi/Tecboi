@@ -3,7 +3,7 @@
 
 <center>
 
-<img alt=🪄🍪 height="300" src="https://github.com/Tecboi/Tecboi/assets/170419553/1811f434-a584-43e1-b3e9-4e715413e846">
+<img alt=🪄🍪 height="300" src="https://iili.io/33aVMdB.jpg">
 
 </center>
 
